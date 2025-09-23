@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nafiz</h1>
 <h3 align="center">I'm a 3rd-semester Information Technology student at Universitas Teknokrat Indonesia, specializing in infrastructure, governance, and UI/UX design. I build scalable design systems in Figma, troubleshoot, and document technical processes in bilingual formats. With hands-on experience in web development and AI tools, I aim to contribute to projects that blend functionality with user-centered design. Currently seeking internship or freelance opportunities in UI/UX, Cloud Computing, or IT Governance.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-547&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-547" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafiz-547" alt="nafiz-547" /></a> </p>
+
 - 🔭 I’m currently working on **Making**
 
 - 🌱 I’m currently learning **IT, Coding and Cloud Computing**
@@ -8,6 +12,8 @@
 - 👯 I’m looking to collaborate on **UI/UX design systems, cloud-based infrastructure documentation, or AI-enhanced productivity tools. Open to working with student organizations, startups, or freelance teams that value usability and strategic thinking.**
 
 - 🤝 I’m looking for help with **Exploring consulting frameworks like MECE and SWOT for tech projects, and refining bilingual technical writing for broader audiences. Also seeking mentorship in cloud computing and IT governance best practices.**
+
+- 👨‍💻 All of my projects are available at [https://nafiz1stportfolio.edgeone.app/](https://nafiz1stportfolio.edgeone.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/muhammadnafiz547](https://www.linkedin.com/in/muhammadnafiz547)
 
@@ -22,3 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-547&show_icons=true&locale=en&layout=compact" alt="nafiz-547" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-547&show_icons=true&locale=en" alt="nafiz-547" /></p>
