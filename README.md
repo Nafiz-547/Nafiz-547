@@ -1,34 +1,27 @@
-<h1 align="center">Hi 👋, I'm Nafiz</h1>
-<h3 align="center">I'm a 3rd-semester Information Technology student at Universitas Teknokrat Indonesia, specializing in infrastructure, governance, and UI/UX design. I build scalable design systems in Figma, troubleshoot, and document technical processes in bilingual formats. With hands-on experience in web development and AI tools, I aim to contribute to projects that blend functionality with user-centered design. Currently seeking internship or freelance opportunities in UI/UX, Cloud Computing, or IT Governance.</h3>
+# 💫 About Me:
+🔭 I’m currently working on  <br>Designing a landing page prototype for my university department using Figma, focusing on modern UI/UX and responsive layout. I’m also exploring AI automation workflows with **n8n**, aiming to integrate smart triggers and data handling for productivity use cases.<br><br>👯 I’m looking to collaborate on  <br>Projects involving **educational website design**, **AI-powered automation**, or **student-led tech initiatives**. I’m especially interested in teaming up with developers, designers, or cloud enthusiasts who want to build functional, user-centered tools with real-world impact.<br><br>🤝 I’m looking for help with  <br>Deepening my understanding of "networking" and **IT infrastructure**, especially in real-world applications and cloud-based environments. I’m open to insights, resources, or mentorship that can help me bridge theory with practice.<br><br>🌱 I’m currently learning  <br>AI fundamentals, Python programming, and cloud computing workflows. I’m also exploring automation tools like **n8n** and improving my technical English for documentation and collaboration.<br><br>💬 Ask me about  <br>Figma design systems, bilingual documentation workflows, troubleshooting Python edge cases, and UI/UX for browser or chat-based apps.<br><br>⚡ Fun fact  <br>I genuinely enjoy learning—whether it’s a new design plugin, a cloud concept, or a better way to document workflows. Building a consistent learning habit is something I’m proud of and always working to improve.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-547&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-547" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafiz-547" alt="nafiz-547" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Nafiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhamadnafiz547@gmail.com) 
 
-- 🔭 I’m currently working on **Making**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nafiz-547&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nafiz-547&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz-547&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **IT, Coding and Cloud Computing**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nafiz-547&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-- 👯 I’m looking to collaborate on **UI/UX design systems, cloud-based infrastructure documentation, or AI-enhanced productivity tools. Open to working with student organizations, startups, or freelance teams that value usability and strategic thinking.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🤝 I’m looking for help with **Exploring consulting frameworks like MECE and SWOT for tech projects, and refining bilingual technical writing for broader audiences. Also seeking mentorship in cloud computing and IT governance best practices.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nafiz-547&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 👨‍💻 All of my projects are available at [https://nafiz1stportfolio.edgeone.app/](https://nafiz1stportfolio.edgeone.app/)
+---
+[![](https://visitcount.itsvg.in/api?id=Nafiz-547&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/muhammadnafiz547](https://www.linkedin.com/in/muhammadnafiz547)
-
-- 📫 How to reach me **muhamadnafiz547@gmail.com**
-
-- ⚡ Fun fact **I love to study and learn more about my own major, Information Technology!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad nafiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad nafiz" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-547&show_icons=true&locale=en&layout=compact" alt="nafiz-547" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-547&show_icons=true&locale=en" alt="nafiz-547" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
