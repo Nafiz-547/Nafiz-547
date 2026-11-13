@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="justify">Hi 👋, I'm Nafiz</h1>
-<h3 align="justify">I'm a 3rd-semester Information Technology student at Universitas Teknokrat Indonesia, specializing in infrastructure, governance, and UI/UX design. I build scalable design systems in Figma, troubleshoot, and document technical processes in bilingual formats. With hands-on experience in web development and AI tools, I aim to contribute to projects that blend functionality with user-centered design. Currently seeking internship or freelance opportunities in UI/UX, Cloud Computing, or IT Governance.</h3>
+<h3 align="justify">I'm a 5th-semester Information Technology student at Universitas Teknokrat Indonesia, specializing in infrastructure, governance, and UI/UX design. I build scalable design systems in Figma, troubleshoot, and document technical processes in bilingual formats. With hands-on experience in web development and AI tools, I aim to contribute to projects that blend functionality with user-centered design. Currently seeking internship or freelance opportunities in UI/UX, Cloud Computing, or IT Governance.</h3>
 
 
 
